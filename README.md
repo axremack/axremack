@@ -21,3 +21,6 @@ Here are some ideas to get you started:
 	<a href="#soon" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website"></a>
 
 </p>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axremack&theme=dark&text_color=fff&border_color=79ff97&layout=compact)](https://github.com/axremack) 
