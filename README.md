@@ -39,8 +39,7 @@ Here are some ideas to get you started:
 <br/>
 
 <p align="center">
-	<a href="https://github.com/axremack" target="_blank" rel="noreferrer">
-		<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=axremack&theme=light&text_color=000&border_color=white&layout=compact" />
-	</a>
+	<img height="450px" src="https://user-images.githubusercontent.com/62250627/164066398-34716783-2695-471a-be67-9430198eeffb.png" />
 </p>
+
 
