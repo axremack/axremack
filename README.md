@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi 👋, I'm Axel Remack</h1>
-<h3 align="center">Cybersecurity Engineer - Junior Pentester</h3>
+<h3 align="center">DevSecOps Engineer - Software Developer</h3>
 <br/>
 
 - 👨‍💻 All of my projects are available at [soon-to-come](soon-to-come)
